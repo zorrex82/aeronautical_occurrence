@@ -28,7 +28,7 @@ Install the dependencies
 pip install -r requirements.txt
 
 ```
-Execute every script Python as the example below
+Run the project with the command below:
 
 ```python
 
